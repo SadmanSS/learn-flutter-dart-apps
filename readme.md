@@ -2,10 +2,6 @@
   <img src="assets/banner.png" alt="Learn Flutter & Dart — Build Real Apps" width="800">
 </p>
 
-# 🚀 Learn Flutter & Dart — Build Real Apps  
-*A complete, hands-on learning path to master Flutter & Dart from A to Z.*
-
----
 
 ## 📘 Overview
 Welcome to **Learn Flutter & Dart Apps** — a community-driven learning path that helps you master Flutter and Dart by **building real-world apps**.
